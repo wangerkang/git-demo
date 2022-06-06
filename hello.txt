@@ -1,3 +1,3 @@
 hello git!
 hello git! master test
-hot-fix
+hot-fix hot-fix test
